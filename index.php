@@ -13,7 +13,7 @@
       $fighter[0]['HP']= 110;
       $fighter[0]['attack']= rand(1,100);
 
-      $fighter[1]['name']= 'Ondrej';
+      $fighter[1]['name']= 'STEPAN';
       $fighter[1]['HP']= 120;
       $fighter[1]['attack']= rand(1000);
 
